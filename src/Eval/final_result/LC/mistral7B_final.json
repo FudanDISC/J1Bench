@@ -1,0 +1,6 @@
+{
+    "model": "mistral7B",
+    "binary_scores": 0.5147849462365591,
+    "nonbinary_scores": 0.14529569892473118,
+    "ave": 0.33004032258064514
+}

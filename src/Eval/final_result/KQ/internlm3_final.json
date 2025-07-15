@@ -1,0 +1,6 @@
+{
+    "model": "internlm3",
+    "binary_scores": 0.6525105280207322,
+    "nonbinary_scores": 0.5525510204081633,
+    "ave": 0.6025307742144477
+}

@@ -1,0 +1,6 @@
+{
+    "model": "gemma27B",
+    "binary_scores": 0.6409114836410754,
+    "nonbinary_scores": 0.495,
+    "ave": 0.5679557418205377
+}

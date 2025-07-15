@@ -1,0 +1,6 @@
+{
+    "model": "deepseekv3",
+    "binary_scores": 0.6710985584710076,
+    "nonbinary_scores": 0.6071003401360544,
+    "ave": 0.639099449303531
+}
