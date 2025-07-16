@@ -4,7 +4,7 @@ Zheng Jia*, Shengbin Yue*, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu 
 
 J1-ENVS is an interactive and comprehensive legal benchmark where LLM agents engage in diverse legal scenarios, completing tasks through interactions with various participants under procedural rules.
 
-![Demonstration of J1-Envs](/root/J1Bench/assets/J1-ENVS.png)
+![Demonstration of J1-Envs](https://github.com/FudanDISC/J1Bench/blob/main/assets/J1-ENVS.png)
 
 In this repository, we will release:
 
@@ -59,7 +59,7 @@ You can find dialog history documents at [data/dialog_history](src/data/dialog_h
 ### Dataset
 We construct a high-quality [J1-Eval Dataset](https://huggingface.co/datasets/CharlesBeaumont/J1-Eval_Dataset). Download the dataset and place it in [data/case](src/data/case) before running J1-Envs.
 
-![Distribution of legal attributes for six environments in J1-Eval](/root/J1Bench/assets/J1-Eval.png)
+![Distribution of legal attributes for six environments in J1-Eval](https://github.com/FudanDISC/J1Bench/blob/main/assets/J1-Eval.png)
 
 ### Evaluation
 After running J1-Envs, execute the J1-Eval script with:
@@ -69,7 +69,7 @@ bash run_J1-Eval.sh
 You can find the score at [Eval/final_result](src/Eval/final_result). We also provide detailed evaluation results for later check at [Eval/eval_result](src/Eval/eval_result).
 
 
-![Overall performance ranking across different LLM agent sizes](/root/J1Bench/assets/total_performance.png)
+![Overall performance ranking across different LLM agent sizes](https://github.com/FudanDISC/J1Bench/blob/main/assets/total_performance.png)
 
 
 ## Citation
