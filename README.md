@@ -1,7 +1,5 @@
 <div align="center">
 
-ZH | [EN](./README-en.md)
-
 <h1>Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments</h1>
   
 [![Generic badge](https://img.shields.io/badge/🤗-Huggingface%20Repo-green.svg)](https://huggingface.co/Go4miii/DISC-FinLLM)
