@@ -1,8 +1,20 @@
-# Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments[[Paper]](https://arxiv.org/abs/2507.04037)
+<div align="center">
 
-Zheng Jia*, Shengbin Yue*, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei
+ZH | [EN](./README-en.md)
 
-J1-ENVS is an interactive and comprehensive legal benchmark where LLM agents engage in diverse legal scenarios, completing tasks through interactions with various participants under procedural rules.
+<h1>Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments</h1>
+  
+[![Generic badge](https://img.shields.io/badge/🤗-Huggingface%20Repo-green.svg)](https://huggingface.co/Go4miii/DISC-FinLLM)
+[![license](https://img.shields.io/github/license/modelscope/modelscope.svg)](./LICENSE)
+
+[Project Home](https://j1bench.github.io/) | [Paper](https://arxiv.org/abs/2507.04037) | [Hugging Face](https://huggingface.co/papers/2507.04037) 
+
+*Zheng Jia\*, Shengbin Yue\*, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei*
+
+
+</div>
+
+J1-Bench is an **interactive and comprehensive legal benchmark** where LLM agents engage in diverse legal scenarios, completing tasks through interactions with various participants under procedural rules.
 
 ![Demonstration of J1-Envs](https://github.com/FudanDISC/J1Bench/blob/main/assets/J1-ENVS.png)
 
