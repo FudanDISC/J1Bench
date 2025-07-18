@@ -5,7 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/🤗-Huggingface%20Repo-green.svg)](https://huggingface.co/Go4miii/DISC-FinLLM)
 [![license](https://img.shields.io/github/license/modelscope/modelscope.svg)](./LICENSE)
 
-[Project Home](https://j1bench.github.io/) | [Paper](https://arxiv.org/abs/2507.04037) | [Hugging Face](https://huggingface.co/papers/2507.04037) 
+[Project Home](https://j1bench.github.io/) | [Paper](https://arxiv.org/abs/2507.04037) | [Hugging Face](https://huggingface.co/papers/2507.04037) | [Open Compass](https://hub.opencompass.org.cn/dataset-detail/J1-Bench) 
 
 *Zheng Jia\*, Shengbin Yue\*, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei*
 
