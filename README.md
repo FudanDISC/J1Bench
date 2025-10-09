@@ -23,7 +23,7 @@ In this repository, we will release:
 - J1-Eval: Holistic Legal Agent Evaluation
 
 ## News
-- We organize the **Agent Court Arena Track** of  [CAIL 2025](http://cail.cipsc.org.cn/task_summit?raceID=2&cail_tag=2025) 🥳
+- We organize the [**Agent Court Arena Track  of CAIL 2025**](http://cail.cipsc.org.cn/task_summit?raceID=2&cail_tag=2025) !🥳
 
 ## Content
 - [J1-Envs: Interactiv Legal Environments](#j1-envs-interactive-legal-environments)
